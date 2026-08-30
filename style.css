@@ -1,5 +1,5 @@
 body { 
-    font-family: Comic Sans MS; 
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
     color: hwb(59 11% 1%);
     background: linear-gradient(40deg, #0a528d, #1e90ff, #87cefa);
     margin: 0;
